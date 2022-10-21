@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/404-screen.pug"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"js/chunks/1.11d58007c63ed957f41e.js","sourcesContent":["export default __webpack_public_path__ + \"404-screen.html\";"],"sourceRoot":""}

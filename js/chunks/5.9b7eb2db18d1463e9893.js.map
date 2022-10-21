@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/catalog.pug"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"js/chunks/5.9b7eb2db18d1463e9893.js","sourcesContent":["export default __webpack_public_path__ + \"catalog.html\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/delivery.pug"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"js/chunks/9.68c4f53483943b56a8c1.js","sourcesContent":["export default __webpack_public_path__ + \"delivery.html\";"],"sourceRoot":""}

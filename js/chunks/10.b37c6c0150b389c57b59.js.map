@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/favorites.pug"],"names":[],"mappings":"2FAAA,OAAe,cAA0B","file":"js/chunks/10.b37c6c0150b389c57b59.js","sourcesContent":["export default __webpack_public_path__ + \"favorites.html\";"],"sourceRoot":""}

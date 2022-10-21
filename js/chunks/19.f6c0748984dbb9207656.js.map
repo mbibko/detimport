@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/shops.pug"],"names":[],"mappings":"2FAAA,OAAe,cAA0B","file":"js/chunks/19.f6c0748984dbb9207656.js","sourcesContent":["export default __webpack_public_path__ + \"shops.html\";"],"sourceRoot":""}

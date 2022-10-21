@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/basket.pug"],"names":[],"mappings":"0FAAA,OAAe,cAA0B","file":"js/chunks/3.e40a817ebfd0ea1d8c77.js","sourcesContent":["export default __webpack_public_path__ + \"basket.html\";"],"sourceRoot":""}

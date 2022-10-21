@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/test.pug"],"names":[],"mappings":"2FAAA,OAAe,cAA0B","file":"js/chunks/20.c8e7f8cc0d4fa58813ec.js","sourcesContent":["export default __webpack_public_path__ + \"test.html\";"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pug/search-result.pug"],"names":[],"mappings":"2FAAA,OAAe,cAA0B","file":"js/chunks/17.3ed63584388d6712f5e1.js","sourcesContent":["export default __webpack_public_path__ + \"search-result.html\";"],"sourceRoot":""}
